@@ -1,7 +1,7 @@
 <?php
 
 // Exercise 1
-for($evenNum = 0; $evenNum <= 20; $evenNum++) 
+for($evenNum = 0;  <= 20; $evenNum++) 
 {
     if($evenNum % 2 == 0) 
     {
