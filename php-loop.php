@@ -10,7 +10,7 @@ for($evenNum = 0;  <= 20; $evenNum++)
 }
 
 // Exercise 2
-$groceries = ["Chocolate", "Bread", "Mango", "Potatoes", "Eggs"];
+$groceries = ["S", "Bread", "Mango", "Potatoes", "Eggs"];
 
 echo "<br>";
 echo "Grocery List:" . '<br><br>';
